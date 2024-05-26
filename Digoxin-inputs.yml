@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/digoxin-p9-500microgram---primary.py
+inputModule3:
+  class: File
+  path: python/digoxin-p9-infusion---primary.py
+inputModule4:
+  class: File
+  path: python/digoxin-p9-125microgram---primary.py
+inputModule5:
+  class: File
+  path: python/digoxin---primary.py
+inputModule6:
+  class: File
+  path: python/digoxin-p9-digitalis---primary.py
+inputModule7:
+  class: File
+  path: python/digoxin-p9-digamex---primary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
